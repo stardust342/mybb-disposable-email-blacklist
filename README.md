@@ -1,5 +1,5 @@
 # MyBB Disposable Email Blacklist
-MyBB Plugin which blocks over 1000 known anonymous, disposable, or spam email provider or services.
+MyBB Plugin which blocks over 1000 known anonymous, disposable, or spam email providers or services.
 
 Originally created by Depressurize, I have added nearly twice as many blocked email providers.
 
