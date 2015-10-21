@@ -3,6 +3,8 @@ MyBB Plugin which blocks over 1000 known anonymous, disposable, or spam email pr
 
 Originally created by Depressurize, I have added nearly twice as many blocked email providers.
 
+MyBB Mods Link: http://community.mybb.com/mods.php?action=view&pid=603
+
 Original Plugin Link: http://community.mybb.com/mods.php?action=view&pid=293
 
 <h2>Installing</h2> 
