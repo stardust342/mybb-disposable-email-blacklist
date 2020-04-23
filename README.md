@@ -1,3 +1,7 @@
+I recommend using this plugin: https://community.mybb.com/mods.php?action=view&pid=1239
+
+He has many more blocked domains and updates the plugin frequently. 
+
 # MyBB Disposable Email Blacklist
 MyBB Plugin which blocks over 1000 known anonymous, disposable, or spam email providers or services.
 
